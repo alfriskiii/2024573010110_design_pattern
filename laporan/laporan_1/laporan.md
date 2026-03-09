@@ -42,11 +42,11 @@ Untuk memulai pemrograman Java, Anda perlu:
 Contoh:
 ![](img.png)
 
-3. Buat sebuah package baru di dalam folder `src` dengan cara klik kanan pada folder `src` kemudian pilih `New -> Package`. Beri nama `modul_1`.
-4. Buat Sebuah class didalam package `modul_1` dengan cara klik kanan dan pilih `New -> Java Class`. Beri nama `HelloWorld`
+3. Buat sebuah package baru di dalam folder `src` dengan cara klik kanan pada folder `src` kemudian pilih `New -> Package`. Beri nama `praktikum_1`.
+4. Buat Sebuah class didalam package `praktikum_1` dengan cara klik kanan dan pilih `New -> Java Class`. Beri nama `HelloWorld`
 5. Isikan kode dibawah ini.
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class HelloWorld {
     public static void main(String[] args) {
@@ -70,10 +70,10 @@ Variabel digunakan untuk menyimpan data dalam program. Setiap variabel memiliki 
 5. String: Teks (contoh: "Hello")
 
 ### 2.1 Langkah Praktikum
-1. Buat sebuah class baru di dalam package `modul_1` dan beri nama `Variable`
+1. Buat sebuah class baru di dalam package `praktikum_1` dan beri nama `Variable`
 2. Tuliskan kode berikut:
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class Variable {
     public static void main(String[] args) {
@@ -100,7 +100,7 @@ Nama Lengkap, Tempat Lahir, Tanggal Lahir, Golongan Darah, Umur, Tinggi Badan, J
 ```
 Gunakan tipe data yang tepat untuk setiap variabel. Silahkan cari referensi jika mengalami kendala.
 
-> Untuk membuat latihan, buatkan sebuah package baru di dalam package `modul_1` dan beri nama `latihan`. Kemudian, buat sebuah class dengan nama disesuaikan dengan tugas. Kemudian tuliskan solusi anda di dalam class tersebut.
+> Untuk membuat latihan, buatkan sebuah package baru di dalam package `praktikum_1` dan beri nama `latihan`. Kemudian, buat sebuah class dengan nama disesuaikan dengan tugas. Kemudian tuliskan solusi anda di dalam class tersebut.
 
 ### 2.3 Hasil
 Hasil Praktikum :
@@ -108,7 +108,7 @@ Hasil Praktikum :
 
 Kode Latihan :
 ```declarative
-package modul_1.latihan;
+package praktikum_1.latihan;
 
 public class LatihanVariabel {
 public static void main(String[] args) {
@@ -147,10 +147,10 @@ Hasil Latihan :
 3. Logika: `&& (AND), || (OR), ! (NOT)`
 
 ### 3.1 Langkah Praktikum
-1. Buat sebuah class baru di dalam package `modul_1` dan beri nama `Operator`
+1. Buat sebuah class baru di dalam package `praktikum_1` dan beri nama `Operator`
 2. Tuliskan kode berikut:
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class Operator {
     public static void main(String[] args) {
@@ -202,10 +202,10 @@ switch (variabel) {
 ```
 
 ### 4.1 Langkah Praktikum
-1. Buat sebuah class baru di dalam package `modul_1` dan beri nama `Percabangan`
+1. Buat sebuah class baru di dalam package `praktikum_1` dan beri nama `Percabangan`
 2. Tuliskan kode berikut:
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class Percabangan {
     public static void main(String[] args) {
@@ -230,7 +230,7 @@ Hasil Praktikum :
 
 Kode Latihan :
 ```declarative
-package modul_1.latihan;
+package praktikum_1.latihan;
 
 public class LatihanPercabangan {
     public static void main(String[] args) {
@@ -272,10 +272,10 @@ do {
 ```
 
 ### 5.1 Langkah Praktikum
-1. Buat sebuah class baru di dalam package `modul_1` dan beri nama `Perulangan`
+1. Buat sebuah class baru di dalam package `praktikum_1` dan beri nama `Perulangan`
 2. Tuliskan kode berikut:
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class Perulangan {
     public static void main(String[] args) {
@@ -296,7 +296,7 @@ Hasil Praktikum :
 
 Kode Latihan :
 ```declarative
-package modul_1.latihan;
+package praktikum_1.latihan;
 
 public class LatihanFor {
     public static void main(String[] args) {
@@ -308,7 +308,7 @@ public class LatihanFor {
 ```
 
 ```declarative
-package modul_1.latihan;
+package praktikum_1.latihan;
 
 public class LatihanWhile {
     public static void main(String[] args) {
@@ -323,7 +323,7 @@ public class LatihanWhile {
 ```
 
 ```declarative
-package modul_1.latihan;
+package praktikum_1.latihan;
 
 public class LatihanDoWhile {
     public static void main(String[] args) {
@@ -351,9 +351,9 @@ Practice Problem:
 3. Buat program untuk mencetak pola segitiga menggunakan *.
 
 ### 6.1 Solusi
-1. Buat sebuah class baru di dalam package `modul_1` dan beri nama `Factorial` dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
+1. Buat sebuah class baru di dalam package `praktikum_1` dan beri nama `Factorial` dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class Faktorial {
     public static void main(String[] args) {
@@ -366,9 +366,9 @@ public class Faktorial {
     }
 }
 ```
-2. Buat sebuah class baru di dalam package `modul_1` dan beri nama `Prima` dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
+2. Buat sebuah class baru di dalam package `praktikum_1` dan beri nama `Prima` dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class Prima {
     public static void main(String[] args) {
@@ -384,9 +384,9 @@ public class Prima {
     }
 }
 ```
-3. Buat sebuah class baru di dalam package `modul_1` dan beri nama `Segitiga` dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
+3. Buat sebuah class baru di dalam package `praktikum_1` dan beri nama `Segitiga` dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 ```declarative
-package modul_1;
+package praktikum_1;
 
 public class Segitiga {
     public static void main(String[] args) {
